@@ -1,0 +1,4 @@
+
+*.csv
+.ipynb_checkpoints/taxi_final_ver-checkpoint.ipynb
+*.txt
